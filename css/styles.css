@@ -1,0 +1,11 @@
+body {
+  background-color: lightblue;
+}
+
+#work-responses {
+  display: none;
+}
+
+#fun-responses {
+  display: none;
+}
